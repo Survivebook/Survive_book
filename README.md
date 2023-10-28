@@ -1,8 +1,10 @@
 ---
-description: '"where every idea thrives" -- Survive SSBS website'
+description: '"where every idea thrives" -- Survive SSBS website (SurviveBook of SSBS)'
 ---
 
 # README
+
+###
 
 ### 这是一个简短的介绍
 
@@ -16,7 +18,7 @@ description: '"where every idea thrives" -- Survive SSBS website'
 
 我们希望有一天，这些无用的知识可以成为你茶余饭后的谈资和高中最快乐的时光之一。
 
-
+Note: This is also the online SurviveBook for SSBS. We are missioned to build an online whitebook for high schools.&#x20;
 
 ### 关于投稿：
 
