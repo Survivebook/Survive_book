@@ -1,3 +1,7 @@
+---
+description: '"where every idea thrives"'
+---
+
 # README
 
 ### 这是一个简短的介绍
