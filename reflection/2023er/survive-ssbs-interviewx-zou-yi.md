@@ -3,9 +3,9 @@ description: 寻找内心深处的平静、聚焦内在的力量
 coverY: 0
 ---
 
-# Survive Book Interview X 邹毅
+# Survive SSBS Interview X 邹毅
 
-随着高三进入毕业季，Survive Book的小伙伴们开始好奇学姐学长们的成长故事。我们有幸邀请到了即将进入UChicago的邹毅学姐，一起聊一聊她的**成长故事**。
+随着高三进入毕业季，Survive SSBS的小伙伴们开始好奇学姐学长们的成长故事。我们有幸邀请到了即将进入UChicago的邹毅学姐，一起聊一聊她的**成长故事**。
 
 <figure><img src="../../.gitbook/assets/image (64).png" alt="" width="334"><figcaption></figcaption></figure>
 
@@ -15,7 +15,7 @@ coverY: 0
 
 
 
-Survive Book：
+Survive SSBS：
 
 学姐好！我们今天来聊一聊成长的话题。了解到你对于**传统文化，文学**等的兴趣，我们很好奇你觉得是什么类似于书籍一类的东西塑造了你，或者你的人生价值，或者说，你所追求的人生呢？
 
@@ -41,7 +41,7 @@ Survive Book：
 
 
 
-Survive Book：
+Survive SSBS：
 
 我觉得我们可以继续聊成长的一些话题，因为刚刚你有提到一些你的人生价值观…
 
@@ -61,7 +61,7 @@ Survive Book：
 
 
 
-Survive Book：
+Survive SSBS：
 
 迄今为止你有没有遇到过什么最大的挑战—可以分享一下最大的挑战吗？
 
@@ -89,13 +89,13 @@ Survive Book：
 
 
 
-Survive Book：好的，最后想问问你在成长路上如何穿越（或者应对）对未知的恐惧，然后你分享一下你的一些想法。
+Survive SSBS：好的，最后想问问你在成长路上如何穿越（或者应对）对未知的恐惧，然后你分享一下你的一些想法。
 
 邹毅：恐惧大概很多程度上也还是取决于对外界的患得患失，所以我会感觉，寻找内心的安宁还是很重要。
 
 
 
-Survive Book：诶，之前也有提到找到内心的安宁？
+Survive SSBS：诶，之前也有提到找到内心的安宁？
 
 邹毅：
 
@@ -107,7 +107,7 @@ Survive Book：诶，之前也有提到找到内心的安宁？
 
 
 
-Survive Book：
+Survive SSBS：
 
 我们今天讲了很多在成长路上关于心态方面的事。然后我在想你有没有什么能够觉得给学弟学妹们有点启发的这种成长的感受、体验、或建议，可以分享一下？&#x20;
 

@@ -53,7 +53,7 @@
 
 * [2023er](reflection/2023er/README.md)
   * [Peter 赵旭实](reflection/2023er/peter-zhao-xu-shi.md)
-  * [Survive Book Interview X 邹毅](reflection/2023er/survive-book-interviewx-zou-yi.md)
+  * [Survive SSBS Interview X 邹毅](reflection/2023er/survive-ssbs-interviewx-zou-yi.md)
 * [Guests](reflection/guests/README.md)
   * [申请中到底什么重要](reflection/guests/shen-qing-zhong-dao-di-shi-mo-zhong-yao.md)
 
