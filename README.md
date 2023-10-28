@@ -1,5 +1,5 @@
 ---
-description: '"where every idea thrives"'
+description: '"where every idea thrives" -- Survive SSBS website'
 ---
 
 # README
