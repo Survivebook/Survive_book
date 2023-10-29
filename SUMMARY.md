@@ -36,8 +36,8 @@
 * [Exhibition Submission Call | \<Nirvana>](art-and-humanity/exhibition-submission-call-or-less-than-nirvana-greater-than.md)
 * [联校艺术展征稿 | <涅槃/Revive>](art-and-humanity/lian-xiao-yi-shu-zhan-zheng-gao-nie-pan-revive.md)
 * [漫谈《徐冰的语言》和《徐冰引力剧场》](art-and-humanity/man-tan-xu-bing-de-yu-yan-he-xu-bing-yin-li-ju-chang.md)
-* [Whiskey On Ice专访](art-and-humanity/whiskey-on-ice-zhuan-fang.md)
-* [电子音乐制作人Fisher专访](art-and-humanity/dian-zi-yin-le-zhi-zuo-ren-fisher-zhuan-fang.md)
+* [创作型乐队主唱 Emma专访](art-and-humanity/chuang-zuo-xing-le-dui-zhu-chang-emma-zhuan-fang.md)
+* [电子音乐制作人 Fisher专访](art-and-humanity/dian-zi-yin-le-zhi-zuo-ren-fisher-zhuan-fang.md)
 * [把音乐做成职业 Kingsley专访](art-and-humanity/ba-yin-le-zuo-cheng-zhi-ye-kingsley-zhuan-fang.md)
 * [南加大说唱人 Yoanne专访](art-and-humanity/nan-jia-da-shuo-chang-ren-yoanne-zhuan-fang.md)
 
