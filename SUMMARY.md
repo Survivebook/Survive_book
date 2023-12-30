@@ -54,6 +54,8 @@
 * [2023er](reflection/2023er/README.md)
   * [Peter 赵旭实](reflection/2023er/peter-zhao-xu-shi.md)
   * [Survive SSBS Interview X 邹毅](reflection/2023er/survive-ssbs-interviewx-zou-yi.md)
+* [2024er](reflection/2024er/README.md)
+  * [一位2024er的2023年中总结](reflection/2024er/yi-wei-2024er-de-2023-nian-zhong-zong-jie.md)
 * [Guests](reflection/guests/README.md)
   * [申请中到底什么重要](reflection/guests/shen-qing-zhong-dao-di-shi-mo-zhong-yao.md)
 
